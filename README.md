@@ -1,0 +1,1 @@
+This project simulates a spray can particle system that paints on a virtual paper. The program generates particles, simulates their motion, and checks for collisions with a canvas, where the particles apply paint. This project leverages multithreading to manage concurrent tasks such as particle generation and paint application.
